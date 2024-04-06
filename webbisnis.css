@@ -1,0 +1,12 @@
+
+a:link { color: #f1f1f1; }    /* unvisited link */
+
+a:visited { color: #ffffff; } /* visited link */
+
+a:hover { color: #d4d4d4;     /* mouse over link */
+          cursor: pointer; }
+
+a:active { color: #a4ccdf; }  /* selected link */
+
+a{text-decoration: none;} /*delete underline*/
+
